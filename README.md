@@ -1,5 +1,17 @@
+```html
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Can;" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=30&pause=1000&color=64748B&center=true&vCenter=true&repeat=false&width=435&lines=Hey%2C+I%27m+Can"
+    alt="Hey, I'm Can"
+  />
 </h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/can-karakoc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cankarakoc@berkeley.edu) 
+<p align="center">
+  <a href="https://linkedin.com/in/can-karakoc">
+    <img src="https://img.shields.io/badge/LinkedIn-64748B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:cankarakoc@berkeley.edu">
+    <img src="https://img.shields.io/badge/Email-64748B?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+```

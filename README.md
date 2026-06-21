@@ -1,4 +1,3 @@
-```html
 <h1 align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=30&pause=1000&color=64748B&center=true&vCenter=true&repeat=false&width=435&lines=Hey%2C+I%27m+Can"
@@ -14,4 +13,3 @@
     <img src="https://img.shields.io/badge/Email-64748B?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-```
